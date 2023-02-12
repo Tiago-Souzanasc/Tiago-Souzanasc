@@ -19,6 +19,4 @@
 <div> 
   <a href="https://www.linkedin.com/in/tiago-de-souza-nascimento-134345218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Tiago-Souzanasc/Tiago-Souzanasc/blob/output/github-contribution-grid-snake.svg)
-
 </div>
